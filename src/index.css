@@ -48,9 +48,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: var(--clr-grey-10);
+  background-image:url("bg-image.jpg");
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
